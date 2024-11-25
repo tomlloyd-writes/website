@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomlloyd-writes.github.io/website/sitemap.xml
