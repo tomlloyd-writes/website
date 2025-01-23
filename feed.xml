@@ -3,7 +3,7 @@
     <title>Tomlloyd</title>
     <link href="https://tomlloyd-writes.github.io/website/feed.xml" rel="self" />
     <link href="https://tomlloyd-writes.github.io/website" />
-    <updated>2025-01-22T18:59:51+01:00</updated>
+    <updated>2025-01-23T08:07:48+01:00</updated>
     <author>
         <name>Tom Lloyd</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn.html"/>
         <id>https://tomlloyd-writes.github.io/website/verona-in-autumn.html</id>
         <media:content url="https://tomlloyd-writes.github.io/website/media/posts/27/verona_in_autumn-2.jpg" medium="image" />
-            <category term="books"/>
+            <category term="Books"/>
 
         <updated>2025-01-22T18:59:05+01:00</updated>
             <summary></summary>
@@ -44,7 +44,6 @@
         <link href="https://tomlloyd-writes.github.io/website/books.html"/>
         <id>https://tomlloyd-writes.github.io/website/books.html</id>
         <media:content url="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" medium="image" />
-            <category term="books"/>
 
         <updated>2024-11-23T15:25:46+01:00</updated>
             <summary>
@@ -95,7 +94,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/july-2020-news.html"/>
         <id>https://tomlloyd-writes.github.io/website/july-2020-news.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:23:28+01:00</updated>
             <summary>
@@ -125,7 +124,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html"/>
         <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:16:24+01:00</updated>
             <summary>
@@ -153,7 +152,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html"/>
         <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:15:12+01:00</updated>
             <summary>
@@ -182,7 +181,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html"/>
         <id>https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:12:55+01:00</updated>
             <summary>
@@ -211,7 +210,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/the-man-with-one-name.html"/>
         <id>https://tomlloyd-writes.github.io/website/the-man-with-one-name.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:11:00+01:00</updated>
             <summary>
@@ -239,7 +238,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/february-newsletter.html"/>
         <id>https://tomlloyd-writes.github.io/website/february-newsletter.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:09:14+01:00</updated>
             <summary>
@@ -285,7 +284,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html"/>
         <id>https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:07:14+01:00</updated>
             <summary>
@@ -324,7 +323,7 @@
         </author>
         <link href="https://tomlloyd-writes.github.io/website/gollancz-festival.html"/>
         <id>https://tomlloyd-writes.github.io/website/gollancz-festival.html</id>
-            <category term="posts"/>
+            <category term="Posts"/>
 
         <updated>2024-11-23T15:06:00+01:00</updated>
             <summary>
