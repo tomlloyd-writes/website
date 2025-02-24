@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Tomlloyd",
+    "title": "Tom Lloyd",
     "description": "",
     "home_page_url": "https://tomlloyd-writes.github.io/website",
     "feed_url": "https://tomlloyd-writes.github.io/website/feed.json",
@@ -21,8 +21,8 @@
             "tags": [
                    "Books"
             ],
-            "date_published": "2025-01-22T18:59:05+01:00",
-            "date_modified": "2025-01-22T18:59:51+01:00"
+            "date_published": "2025-01-22T17:59:05+00:00",
+            "date_modified": "2025-01-22T17:59:51+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/books.html",
@@ -36,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2024-11-23T15:25:46+01:00",
-            "date_modified": "2025-01-23T08:07:48+01:00"
+            "date_published": "2024-11-23T14:25:46+00:00",
+            "date_modified": "2025-01-23T07:07:48+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/july-2020-news.html",
@@ -51,8 +51,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:23:28+01:00",
-            "date_modified": "2024-11-23T15:23:28+01:00"
+            "date_published": "2024-11-23T14:23:28+00:00",
+            "date_modified": "2024-11-23T14:23:28+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html",
@@ -66,8 +66,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:16:24+01:00",
-            "date_modified": "2024-11-23T15:16:24+01:00"
+            "date_published": "2024-11-23T14:16:24+00:00",
+            "date_modified": "2024-11-23T14:16:24+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html",
@@ -81,8 +81,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:15:12+01:00",
-            "date_modified": "2024-11-23T15:15:12+01:00"
+            "date_published": "2024-11-23T14:15:12+00:00",
+            "date_modified": "2024-11-23T14:15:12+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html",
@@ -96,8 +96,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:12:55+01:00",
-            "date_modified": "2024-11-23T15:12:55+01:00"
+            "date_published": "2024-11-23T14:12:55+00:00",
+            "date_modified": "2024-11-23T14:12:55+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/the-man-with-one-name.html",
@@ -111,8 +111,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:11:00+01:00",
-            "date_modified": "2024-11-23T15:11:00+01:00"
+            "date_published": "2024-11-23T14:11:00+00:00",
+            "date_modified": "2024-11-23T14:11:00+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/february-newsletter.html",
@@ -126,8 +126,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:09:14+01:00",
-            "date_modified": "2024-11-23T15:09:14+01:00"
+            "date_published": "2024-11-23T14:09:14+00:00",
+            "date_modified": "2024-11-23T14:09:14+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html",
@@ -141,8 +141,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:07:14+01:00",
-            "date_modified": "2024-11-23T15:07:14+01:00"
+            "date_published": "2024-11-23T14:07:14+00:00",
+            "date_modified": "2024-11-23T14:07:14+00:00"
         },
         {
             "id": "https://tomlloyd-writes.github.io/website/gollancz-festival.html",
@@ -156,8 +156,8 @@
             "tags": [
                    "Posts"
             ],
-            "date_published": "2024-11-23T15:06:00+01:00",
-            "date_modified": "2024-11-23T15:06:00+01:00"
+            "date_published": "2024-11-23T14:06:00+00:00",
+            "date_modified": "2024-11-23T14:06:00+00:00"
         }
     ]
 }

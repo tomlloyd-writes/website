@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Tomlloyd</title>
+    <title>Tom Lloyd</title>
     <link href="https://tomlloyd-writes.github.io/website/feed.xml" rel="self" />
     <link href="https://tomlloyd-writes.github.io/website" />
-    <updated>2025-01-23T08:07:48+01:00</updated>
+    <updated>2025-01-23T07:07:48+00:00</updated>
     <author>
         <name>Tom Lloyd</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://tomlloyd-writes.github.io/website/media/posts/27/verona_in_autumn-2.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2025-01-22T18:59:05+01:00</updated>
+        <updated>2025-01-22T17:59:05+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -45,7 +45,7 @@
         <id>https://tomlloyd-writes.github.io/website/books.html</id>
         <media:content url="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" medium="image" />
 
-        <updated>2024-11-23T15:25:46+01:00</updated>
+        <updated>2024-11-23T14:25:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" alt="" />
@@ -96,7 +96,7 @@
         <id>https://tomlloyd-writes.github.io/website/july-2020-news.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:23:28+01:00</updated>
+        <updated>2024-11-23T14:23:28+00:00</updated>
             <summary>
                 <![CDATA[
                     July 2020 – Newsletter I Ate’nt dead, as one of my very favourite characters writes. It turns out, however, that&hellip;
@@ -126,7 +126,7 @@
         <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:16:24+01:00</updated>
+        <updated>2024-11-23T14:16:24+00:00</updated>
             <summary>
                 <![CDATA[
                     Not every idea pans out. Something that seems brilliant in your head never translates to the page however you approach&hellip;
@@ -154,7 +154,7 @@
         <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:15:12+01:00</updated>
+        <updated>2024-11-23T14:15:12+00:00</updated>
             <summary>
                 <![CDATA[
                     Even if you’re so foolish as to think “sure, Shakespeare; I should definitely write something that has people using Shakespeare&hellip;
@@ -183,7 +183,7 @@
         <id>https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:12:55+01:00</updated>
+        <updated>2024-11-23T14:12:55+00:00</updated>
             <summary>
                 <![CDATA[
                     I’m delighted to announce that the crowdfunding drive for my historical fiction novel, VERONA IN AUTUMN, is now live! You&hellip;
@@ -212,7 +212,7 @@
         <id>https://tomlloyd-writes.github.io/website/the-man-with-one-name.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:11:00+01:00</updated>
+        <updated>2024-11-23T14:11:00+00:00</updated>
             <summary>
                 <![CDATA[
                     Publication excitement! One of the funny things about publishing is the delay you often experience – the times you have&hellip;
@@ -240,7 +240,7 @@
         <id>https://tomlloyd-writes.github.io/website/february-newsletter.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:09:14+01:00</updated>
+        <updated>2024-11-23T14:09:14+00:00</updated>
             <summary>
                 <![CDATA[
                     For those who don’t subscribe to the newsletter, here it is in all its glory! A new year and a&hellip;
@@ -286,7 +286,7 @@
         <id>https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:07:14+01:00</updated>
+        <updated>2024-11-23T14:07:14+00:00</updated>
             <summary>
                 <![CDATA[
                     That (Third) Difficult Second Book So by now hopefully everyone has noticed that Princess of Blood is out – as&hellip;
@@ -325,7 +325,7 @@
         <id>https://tomlloyd-writes.github.io/website/gollancz-festival.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T15:06:00+01:00</updated>
+        <updated>2024-11-23T14:06:00+00:00</updated>
             <summary>
                 <![CDATA[
                     For the handful of you who’ve not seen any mention of it, The Gollancz Festival will be taking place in&hellip;
