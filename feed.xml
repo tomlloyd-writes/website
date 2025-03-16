@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Tom Lloyd</title>
-    <link href="https://tomlloyd-writes.github.io/website/feed.xml" rel="self" />
-    <link href="https://tomlloyd-writes.github.io/website" />
-    <updated>2025-01-23T07:07:48+00:00</updated>
+    <title>Tomlloyd</title>
+    <link href="https://tomlloyd.co.uk/feed.xml" rel="self" />
+    <link href="https://tomlloyd.co.uk" />
+    <updated>2025-01-23T08:07:48+01:00</updated>
     <author>
         <name>Tom Lloyd</name>
     </author>
-    <id>https://tomlloyd-writes.github.io/website</id>
+    <id>https://tomlloyd.co.uk</id>
 
     <entry>
         <title>Verona in Autumn</title>
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn.html"/>
-        <id>https://tomlloyd-writes.github.io/website/verona-in-autumn.html</id>
-        <media:content url="https://tomlloyd-writes.github.io/website/media/posts/27/verona_in_autumn-2.jpg" medium="image" />
+        <link href="https://tomlloyd.co.uk/verona-in-autumn.html"/>
+        <id>https://tomlloyd.co.uk/verona-in-autumn.html</id>
+        <media:content url="https://tomlloyd.co.uk/media/posts/27/verona_in_autumn-2.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2025-01-22T17:59:05+00:00</updated>
+        <updated>2025-01-22T18:59:05+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tomlloyd-writes.github.io/website/media/posts/27/verona_in_autumn-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tomlloyd.co.uk/media/posts/27/verona_in_autumn-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://tomlloyd-writes.github.io/website/media/posts/27/verona_in_autumn.jpg" height="1000" width="679" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tomlloyd-writes.github.io/website/media/posts/27/responsive/verona_in_autumn-xs.jpg 384w ,https://tomlloyd-writes.github.io/website/media/posts/27/responsive/verona_in_autumn-sm.jpg 600w ,https://tomlloyd-writes.github.io/website/media/posts/27/responsive/verona_in_autumn-md.jpg 768w ,https://tomlloyd-writes.github.io/website/media/posts/27/responsive/verona_in_autumn-lg.jpg 1200w ,https://tomlloyd-writes.github.io/website/media/posts/27/responsive/verona_in_autumn-xl.jpg 1600w">
+      <img loading="lazy" src="https://tomlloyd.co.uk/media/posts/27/verona_in_autumn.jpg" height="1000" width="679" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tomlloyd.co.uk/media/posts/27/responsive/verona_in_autumn-xs.jpg 384w ,https://tomlloyd.co.uk/media/posts/27/responsive/verona_in_autumn-sm.jpg 600w ,https://tomlloyd.co.uk/media/posts/27/responsive/verona_in_autumn-md.jpg 768w ,https://tomlloyd.co.uk/media/posts/27/responsive/verona_in_autumn-lg.jpg 1200w ,https://tomlloyd.co.uk/media/posts/27/responsive/verona_in_autumn-xl.jpg 1600w">
       
     </figure>
 
@@ -41,20 +41,20 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/books.html"/>
-        <id>https://tomlloyd-writes.github.io/website/books.html</id>
-        <media:content url="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" medium="image" />
+        <link href="https://tomlloyd.co.uk/books.html"/>
+        <id>https://tomlloyd.co.uk/books.html</id>
+        <media:content url="https://tomlloyd.co.uk/media/posts/25/Stormcaller-special-ed-1.jpg" medium="image" />
 
-        <updated>2024-11-23T14:25:46+00:00</updated>
+        <updated>2024-11-23T15:25:46+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" alt="" />
+                        <img src="https://tomlloyd.co.uk/media/posts/25/Stormcaller-special-ed-1.jpg" alt="" />
                     My books Please do check out Bookshop.org which supports local businesses. The series title will take you to the Bookshop.org page for that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tomlloyd-writes.github.io/website/media/posts/25/Stormcaller-special-ed-1.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tomlloyd.co.uk/media/posts/25/Stormcaller-special-ed-1.jpg" class="type:primaryImage" alt="" /></p>
                 <article id="post-9" class="post-9 page type-page status-publish hentry">
 <div class="entry-content">
 <h1> </h1>
@@ -92,11 +92,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/july-2020-news.html"/>
-        <id>https://tomlloyd-writes.github.io/website/july-2020-news.html</id>
+        <link href="https://tomlloyd.co.uk/july-2020-news.html"/>
+        <id>https://tomlloyd.co.uk/july-2020-news.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:23:28+00:00</updated>
+        <updated>2024-11-23T15:23:28+01:00</updated>
             <summary>
                 <![CDATA[
                     July 2020 – Newsletter I Ate’nt dead, as one of my very favourite characters writes. It turns out, however, that&hellip;
@@ -122,11 +122,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html"/>
-        <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-making-up-history.html</id>
+        <link href="https://tomlloyd.co.uk/verona-in-autumn-making-up-history.html"/>
+        <id>https://tomlloyd.co.uk/verona-in-autumn-making-up-history.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:16:24+00:00</updated>
+        <updated>2024-11-23T15:16:24+01:00</updated>
             <summary>
                 <![CDATA[
                     Not every idea pans out. Something that seems brilliant in your head never translates to the page however you approach&hellip;
@@ -150,11 +150,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html"/>
-        <id>https://tomlloyd-writes.github.io/website/verona-in-autumn-starting-the-novel.html</id>
+        <link href="https://tomlloyd.co.uk/verona-in-autumn-starting-the-novel.html"/>
+        <id>https://tomlloyd.co.uk/verona-in-autumn-starting-the-novel.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:15:12+00:00</updated>
+        <updated>2024-11-23T15:15:12+01:00</updated>
             <summary>
                 <![CDATA[
                     Even if you’re so foolish as to think “sure, Shakespeare; I should definitely write something that has people using Shakespeare&hellip;
@@ -179,11 +179,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html"/>
-        <id>https://tomlloyd-writes.github.io/website/announcing-verona-in-autumn.html</id>
+        <link href="https://tomlloyd.co.uk/announcing-verona-in-autumn.html"/>
+        <id>https://tomlloyd.co.uk/announcing-verona-in-autumn.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:12:55+00:00</updated>
+        <updated>2024-11-23T15:12:55+01:00</updated>
             <summary>
                 <![CDATA[
                     I’m delighted to announce that the crowdfunding drive for my historical fiction novel, VERONA IN AUTUMN, is now live! You&hellip;
@@ -208,11 +208,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/the-man-with-one-name.html"/>
-        <id>https://tomlloyd-writes.github.io/website/the-man-with-one-name.html</id>
+        <link href="https://tomlloyd.co.uk/the-man-with-one-name.html"/>
+        <id>https://tomlloyd.co.uk/the-man-with-one-name.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:11:00+00:00</updated>
+        <updated>2024-11-23T15:11:00+01:00</updated>
             <summary>
                 <![CDATA[
                     Publication excitement! One of the funny things about publishing is the delay you often experience – the times you have&hellip;
@@ -236,11 +236,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/february-newsletter.html"/>
-        <id>https://tomlloyd-writes.github.io/website/february-newsletter.html</id>
+        <link href="https://tomlloyd.co.uk/february-newsletter.html"/>
+        <id>https://tomlloyd.co.uk/february-newsletter.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:09:14+00:00</updated>
+        <updated>2024-11-23T15:09:14+01:00</updated>
             <summary>
                 <![CDATA[
                     For those who don’t subscribe to the newsletter, here it is in all its glory! A new year and a&hellip;
@@ -282,11 +282,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html"/>
-        <id>https://tomlloyd-writes.github.io/website/princess-of-blood-is-out.html</id>
+        <link href="https://tomlloyd.co.uk/princess-of-blood-is-out.html"/>
+        <id>https://tomlloyd.co.uk/princess-of-blood-is-out.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:07:14+00:00</updated>
+        <updated>2024-11-23T15:07:14+01:00</updated>
             <summary>
                 <![CDATA[
                     That (Third) Difficult Second Book So by now hopefully everyone has noticed that Princess of Blood is out – as&hellip;
@@ -321,11 +321,11 @@
         <author>
             <name>Tom Lloyd</name>
         </author>
-        <link href="https://tomlloyd-writes.github.io/website/gollancz-festival.html"/>
-        <id>https://tomlloyd-writes.github.io/website/gollancz-festival.html</id>
+        <link href="https://tomlloyd.co.uk/gollancz-festival.html"/>
+        <id>https://tomlloyd.co.uk/gollancz-festival.html</id>
             <category term="Posts"/>
 
-        <updated>2024-11-23T14:06:00+00:00</updated>
+        <updated>2024-11-23T15:06:00+01:00</updated>
             <summary>
                 <![CDATA[
                     For the handful of you who’ve not seen any mention of it, The Gollancz Festival will be taking place in&hellip;
